@@ -1,0 +1,5 @@
+// actionTypes.js
+export const SET_FEEDBACK = 'SET_FEEDBACK';
+export const UPDATE_FORM = 'UPDATE_FORM';
+export const SUBMIT_FORM_SUCCESS = 'SUBMIT_FORM_SUCCESS';
+export const SUBMIT_FORM_FAILURE = 'SUBMIT_FORM_FAILURE';

@@ -1,0 +1,5 @@
+export const SET_TEST_TYPE = 'SET_TEST_TYPE';
+export const SET_VERSION_COUNT = 'SET_VERSION_COUNT';
+export const UPLOAD_FILE = 'UPLOAD_FILE';
+export const SET_TEST_NAME = 'SET_TEST_NAME';
+export const SET_TEST_DESCRIPTION = 'SET_TEST_DESCRIPTION';
